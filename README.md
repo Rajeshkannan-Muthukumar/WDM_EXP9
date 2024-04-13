@@ -1,5 +1,5 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### DATE: 13.4.2024
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -14,7 +14,7 @@ RapidMiner provides learning schemes, models and algorithms and can be extended 
 1) ***Import Twitter data:*** Import the Twitter data into RapidMiner. You can do this by selecting the appropriate
 data source operator, such as "Read Excel" or "Read CSV," and specifying the location of your Twitter data
 file.
-2) ***Preprocess data:*** Preprocess the imported data to clean and prepare it for text processing. Use the following
+2) ***Preocess data:*** Preprocess the imported data to clean and prepare it for text processing. Use the following
 operators for preprocessing:
     <p>a. Tokenize: Split the text into individual words or tokens.
     <p>b. Transform Cases: Convert the text to lowercase or uppercase to ensure consistency.
@@ -26,5 +26,11 @@ for this purpose.
 
 
 ### Output:
+M.Rajeshkannan<br>212221230081 <br>
 
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 ### Result:
+Thus the implement preprocessing technique on Twitter Data using Rapidminer is executed successful.
+
